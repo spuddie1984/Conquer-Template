@@ -1,3 +1,2 @@
-# Conquer-Template-
-Based on the Bootstrap Conquer Template, this version doesn't use bootstrap just plain css html and javascript.
-<a href="https://templatemo.com/tm-476-conquer">Here</a> is the original!!
+# Conquer-Template
+Based on the Conquer Bootstrap template but written completely in css html and a bit of javascript, NO BOOTSTRAP !! Find the original bootstrap conquer template <a href="https://templatemo.com/tm-476-conquer">here !!!</a>
