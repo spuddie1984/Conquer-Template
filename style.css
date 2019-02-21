@@ -320,3 +320,8 @@ footer a{
     border-radius: 5px;
   }
 }
+@media ( hover: none){
+  .header-image{
+    background-attachment: initial;
+  }
+}
