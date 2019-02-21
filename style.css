@@ -324,4 +324,10 @@ footer a{
   .header-image{
     background-attachment: initial;
   }
+  .services-image{
+    background-attachment: initial;
+  }
+  .contact-page-image{
+    background-attachment: initial;
+  }
 }
